@@ -18,29 +18,27 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="width:60%; vertical-align: top;">
-      <h3>🧑‍💻 About Me</h3>
-      <ul>
-        <li>🔭 I’m currently learning <b>Advanced MERN Stack & Backend Architecture</b></li>
-        <li>🛍️ Check out my <a href="https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link"><b>Resume</b></a></li>
-        <li>🌱 Exploring <b>TailwindCSS, ShadCN UI, Prisma, and Cloud Deployments</b></li>
-        <li>👯 I'm looking to collaborate on <a href="https://www.linkedin.com/in/nikhil-kumar-kandula-740774254">LinkedIn</a></li>
-        <li>💬 Ask me about <b>Next.js, React, Node.js, MongoDB, or Postgres</b></li>
-        <li>✉️ Reach me at <a href="mailto:nikhilkumarkandula@gmail.com">nikhilkumarkandula@gmail.com</a></li>
-        <li>⚡ Fun Fact: <i>I believe in parallel universes — in one, my code works perfectly!</i> 😄</li>
-      </ul>
-    </td>
-    <td style="width:40%; vertical-align: top;" align="center">
-      <img
-        alt="Developer at work"
-        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-        width="95%"
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="width: 60%;">
+    <h3>🧑‍💻 About Me</h3>
+    <ul>
+      <li>🔭 I’m currently learning <b>Advanced MERN Stack & Backend Architecture</b></li>
+      <li>🛍️ Check out my <a href="https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link"><b>Resume</b></a></li>
+      <li>🌱 Exploring <b>TailwindCSS, ShadCN UI, Prisma, and Cloud Deployments</b></li>
+      <li>👯 I'm looking to collaborate on <a href="https://www.linkedin.com/in/nikhil-kumar-kandula-740774254">LinkedIn</a></li>
+      <li>💬 Ask me about <b>Next.js, React, Node.js, MongoDB, or Postgres</b></li>
+      <li>✉️ Reach me at <a href="mailto:nikhilkumarkandula@gmail.com">nikhilkumarkandula@gmail.com</a></li>
+      <li>⚡ Fun Fact: <i>I believe in parallel universes — in one, my code works perfectly!</i> 😄</li>
+    </ul>
+  </div>
+  <div style="width: 35%; text-align: center;">
+    <img
+      alt="Developer at work"
+      src="https://cdn.dribbble.com/users/730703/screenshots/6581243/programmer.gif"
+      width="95%"
+    />
+  </div>
+</div>
 
 ---
 
