@@ -21,9 +21,7 @@
 <table>
   <tr>
     <td style="width:60%; vertical-align: top;">
-
       <h3>🧑‍💻 About Me</h3>
-
       <ul>
         <li>🔭 I’m currently learning <b>Advanced MERN Stack & Backend Architecture</b></li>
         <li>🛍️ Check out my <a href="https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link"><b>Resume</b></a></li>
@@ -33,7 +31,6 @@
         <li>✉️ Reach me at <a href="mailto:nikhilkumarkandula@gmail.com">nikhilkumarkandula@gmail.com</a></li>
         <li>⚡ Fun Fact: <i>I believe in parallel universes — in one, my code works perfectly!</i> 😄</li>
       </ul>
-
     </td>
     <td style="width:40%; vertical-align: top;" align="center">
       <img
