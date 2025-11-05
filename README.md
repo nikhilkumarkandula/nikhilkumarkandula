@@ -17,7 +17,7 @@
 </p>
 
 ---
-<!-- About Me + Side Image (keeps layout intact) -->
+
 <table>
   <tr>
     <td style="width:60%; vertical-align: top;">
