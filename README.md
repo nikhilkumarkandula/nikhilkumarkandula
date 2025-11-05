@@ -17,18 +17,33 @@
 </p>
 
 ---
+<!-- About Me + Side Image (keeps layout intact) -->
+<table>
+  <tr>
+    <td style="width:60%; vertical-align: top;">
 
-### 🧑‍💻 About Me
+      <h3>🧑‍💻 About Me</h3>
 
-* 🔭 I’m currently learning **Advanced MERN Stack & Backend Architecture**
-* 🛍️ Check out my [Resume](https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link)
-* 🌱 Exploring **TailwindCSS, ShadCN UI, Prisma, and Cloud Deployments**
-* 👯 I'm looking to collaborate on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-kandula-740774254)
-* 💬 Ask me about **Next.js, React, Node.js, MongoDB, or Postgres**
-* ✉️ Reach me at **[nikhilkumarkandula@gmail.com](mailto:nikhilkumarkandula@gmail.com)**
-* ⚡ Fun Fact: *I believe in parallel universes — in one, my code works perfectly!* 😄
+      <ul>
+        <li>🔭 I’m currently learning <b>Advanced MERN Stack & Backend Architecture</b></li>
+        <li>🛍️ Check out my <a href="https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link"><b>Resume</b></a></li>
+        <li>🌱 Exploring <b>TailwindCSS, ShadCN UI, Prisma, and Cloud Deployments</b></li>
+        <li>👯 I'm looking to collaborate on <a href="https://www.linkedin.com/in/nikhil-kumar-kandula-740774254">LinkedIn</a></li>
+        <li>💬 Ask me about <b>Next.js, React, Node.js, MongoDB, or Postgres</b></li>
+        <li>✉️ Reach me at <a href="mailto:nikhilkumarkandula@gmail.com">nikhilkumarkandula@gmail.com</a></li>
+        <li>⚡ Fun Fact: <i>I believe in parallel universes — in one, my code works perfectly!</i> 😄</li>
+      </ul>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </td>
+    <td style="width:40%; vertical-align: top;" align="center">
+      <img
+        alt="Developer at work"
+        src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/96a1e04d1a847b5a3c57ddcf636e06ce.gif"
+        width="95%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,9 +66,9 @@
   </tr>
   <tr>
     <td align="center"><a href="https://nextjs.org/"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="60"/><br><b>Next.js</b></a></td>
-    <td align="center"><a href="https://next-auth.js.org/"><img src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/docs/static/img/logo.svg" width="60"/><br><b>NextAuth</b></a></td>
+    <td align="center"><a href="https://next-auth.js.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKhCjBUfpMBX3w1bJfkmLHqD0bMJwjzZMoA&s" width="60"/><br><b>NextAuth</b></a></td>
     <td align="center"><a href="https://nodejs.org/"><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="60"/><br><b>Node.js</b></a></td>
-    <td align="center"><a href="https://expressjs.com/"><img src="https://cdn.svgporn.com/logos/express.svg" width="60"/><br><b>Express.js</b></a></td>
+    <td align="center"><a href="https://expressjs.com/"><img src="https://images.codingblocks.com/web/express.png" width="60"/><br><b>Express.js</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.svgporn.com/logos/mongodb.svg" width="60"/><br><b>MongoDB</b></a></td>
