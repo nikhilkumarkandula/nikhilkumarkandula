@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer%20🚀;MERN%20Stack%20Enthusiast%20🔥;Always%20Learning%20New%20Things%20📚&font=Fira%20Code&center=true&width=600&height=45&color=00C7FF&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer%20🚀;MERN%20%2B%20Next.js%20Developer%20🔥;Always%20Learning%20New%20Things%20📚&font=Fira%20Code&center=true&width=600&height=45&color=00C7FF&vCenter=true&size=22&pause=1000">
 </p>
 
 ---
@@ -22,13 +22,13 @@
 
 * 🔭 I’m currently learning **Advanced MERN Stack & Backend Architecture**
 * 🛍️ Check out my [Resume](https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link)
-* 🌱 Exploring **Zustand, TailwindCSS, and Cloud Deployments**
-* 👯 I'm looking to collaborate on [LinkedIn](www.linkedin.com/in/nikhil-kumar-kandula-740774254)
-* 💬 Ask me about **Next. js, React, Node.js, MongoDB, or Postgres**
+* 🌱 Exploring **TailwindCSS, ShadCN UI, Prisma, and Cloud Deployments**
+* 👯 I'm looking to collaborate on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-kandula-740774254)
+* 💬 Ask me about **Next.js, React, Node.js, MongoDB, or Postgres**
 * ✉️ Reach me at **[nikhilkumarkandula@gmail.com](mailto:nikhilkumarkandula@gmail.com)**
-* ⚡ Fun Fact: *I believe in parallel universes — in one, my code works perfectly.!😁*
+* ⚡ Fun Fact: *I believe in parallel universes — in one, my code works perfectly!* 😄
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
@@ -42,19 +42,41 @@
 
 ## ⚙️ Tech Stack
 
-|                                                                                                  |                                                                                                     |                                                                                        |                                                                                           |
-| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| <img src="https://cdn.svgporn.com/logos/react.svg" width="60" /> <br> **React.js**               | <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="60" /> <br> **Node.js**             | <img src="https://cdn.svgporn.com/logos/express.svg" width="60" /> <br> **Express.js** | <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="60" /> <br> **MongoDB**       |
-| <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="60" /> <br> **TailwindCSS** | <img src="https://avatars.githubusercontent.com/u/6764957?s=200&v=4" width="60" /> <br> **Zustand** | <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="60" /> <br> **Git**       | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="60" /> <br> **JavaScript** |
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.svgporn.com/logos/html-5.svg" width="60"/><br><b>HTML5</b></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.svgporn.com/logos/css-3.svg" width="60"/><br><b>CSS3</b></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.svgporn.com/logos/javascript.svg" width="60"/><br><b>JavaScript</b></a></td>
+    <td align="center"><a href="https://react.dev/"><img src="https://cdn.svgporn.com/logos/react.svg" width="60"/><br><b>React.js</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://nextjs.org/"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="60"/><br><b>Next.js</b></a></td>
+    <td align="center"><a href="https://next-auth.js.org/"><img src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/docs/static/img/logo.svg" width="60"/><br><b>NextAuth</b></a></td>
+    <td align="center"><a href="https://nodejs.org/"><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="60"/><br><b>Node.js</b></a></td>
+    <td align="center"><a href="https://expressjs.com/"><img src="https://cdn.svgporn.com/logos/express.svg" width="60"/><br><b>Express.js</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.svgporn.com/logos/mongodb.svg" width="60"/><br><b>MongoDB</b></a></td>
+    <td align="center"><a href="https://www.postgresql.org/"><img src="https://cdn.svgporn.com/logos/postgresql.svg" width="60"/><br><b>PostgreSQL</b></a></td>
+    <td align="center"><a href="https://www.prisma.io/"><img src="https://cdn.svgporn.com/logos/prisma.svg" width="60"/><br><b>Prisma</b></a></td>
+    <td align="center"><a href="https://tailwindcss.com/"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="60"/><br><b>TailwindCSS</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ui.shadcn.com/"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60"/><br><b>ShadCN UI</b></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://cdn.svgporn.com/logos/git-icon.svg" width="60"/><br><b>Git</b></a></td>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://cdn.svgporn.com/logos/aws.svg" width="60"/><br><b>AWS</b></a></td>
+    <td align="center"><a href="https://www.netlify.com/"><img src="https://cdn.svgporn.com/logos/netlify.svg" width="60"/><br><b>Netlify</b></a></td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Featured Projects
 
-| Project                                                                                  | Description                                                                                  | Tech                       |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------- |
-| 🦸‍♂️ [**Marvel Merchandise**](https://github.com/nikhilkumarkandula/Marvel-Merchandise) | E-commerce platform for Marvel-themed costumes with cart, orders & OTP-based password reset. | MERN, Zustand, TailwindCSS |
-| 💬 [**Chat App**](https://github.com/nikhilkumarkandula/Chat-App)                        | Real-time chat application with authentication & profile image update.                       | MERN, Socket.io          
+| Project                                                                                  | Description                                                                                  | Tech                      |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------- |
+| 🦸‍♂️ [**Marvel Merchandise**](https://github.com/nikhilkumarkandula/Marvel-Merchandise) | E-commerce platform for Marvel-themed costumes with cart, orders & OTP-based password reset. | MERN, TailwindCSS, ShadCN |
+| 💬 [**Chat App**](https://github.com/nikhilkumarkandula/Chat-App)                        | Real-time chat application with authentication & profile image update.                       | MERN, Socket.io           |
 
 ---
 
