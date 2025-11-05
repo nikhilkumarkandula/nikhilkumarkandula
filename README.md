@@ -3,16 +3,8 @@
 </h2>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer%20🚀;MERN%20%2B%20Next.js%20Developer%20🔥;Always%20Learning%20New%20Things%20📚&font=Fira%20Code&center=true&width=600&height=45&color=00C7FF&vCenter=true&size=22&pause=1000">
-</p>
-
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="width: 60%;">
