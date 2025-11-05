@@ -35,7 +35,7 @@
     <td style="width:40%; vertical-align: top;" align="center">
       <img
         alt="Developer at work"
-        src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/96a1e04d1a847b5a3c57ddcf636e06ce.gif"
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
         width="95%"
       />
     </td>
