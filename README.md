@@ -9,7 +9,7 @@
     <h3>🧑‍💻 About Me</h3>
     <ul>
       <li>🔭 I’m currently learning <b>Advanced MERN Stack & Backend Architecture</b></li>
-      <li>🛍️ Check out my <a href="https://drive.google.com/file/d/1ELwom5joOLzdubdsm-M9jIhOIaPV7hxo/view?usp=drive_link"><b>Resume</b></a></li>
+      <li>🛍️ Check out my <a href="https://drive.google.com/file/d/1fgmv25e9ZibvOki-5mniIdTRis48MISs/view?usp=sharing"><b>Resume</b></a></li>
       <li>🌱 Exploring <b>TailwindCSS, ShadCN UI, Prisma, and Cloud Deployments</b></li>
       <li>👯 I'm looking to collaborate on <a href="https://www.linkedin.com/in/nikhil-kumar-kandula-740774254">LinkedIn</a></li>
       <li>💬 Ask me about <b>Next.js, React, Node.js, MongoDB, or Postgres</b></li>
